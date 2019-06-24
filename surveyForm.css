@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #a9d7d1 !important;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 800;
+}
+
+#description {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.container {
+    border: white 1px solid;
+    background: white;
+    border-radius: 15px;
+    max-width: 95%;
+    height: auto;
+    margin-bottom: 30px;
+}
+
+#survey-form {
+    width: 50%;
+    margin: auto;
+}
+
+#radio-div, #checkboxes {
+    margin-top: 15px;
+}
+
+#textarea {
+    max-width: 100%;
+    vertical-align: top;
+    margin-right: 5px;
+    margin-bottom: 15px;
+}
+
+#submit {
+    display: block;
+    margin: 15px auto;
+}
