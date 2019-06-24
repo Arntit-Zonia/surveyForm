@@ -1,3 +1,3 @@
 # surveyForm
 
-Survey form the Responsive Web Design Certification at Free Code Camp.
+Survey form from the Responsive Web Design Certification at Free Code Camp.
